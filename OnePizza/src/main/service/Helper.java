@@ -1,7 +1,6 @@
 package com.onepizzahashcode2022.service;
 
 import com.onepizzahashcode2022.model.Customer;
-//import dz.hashcode2022.one_pizza.onepizzahashcode2022.service.CustomerComparator;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
