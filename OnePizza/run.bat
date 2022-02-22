@@ -1,0 +1,2 @@
+java com.onepizzahashcode2022.Main
+pause
